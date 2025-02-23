@@ -1,5 +1,5 @@
 # **🩺🚀 AI-Powered Disease Prediction Machine Learning Models**  
-
+<div align="justify">
 ## **🌍 Revolutionizing Healthcare with Artificial Intelligence**  
 AI is transforming **healthcare**, enabling **early disease detection, precise predictions, and smarter diagnostics**. By leveraging **Machine Learning (ML)**, we can accurately predict **life-threatening diseases** like **Diabetes, Parkinson’s, and Heart Disease**, empowering doctors and patients with **data-driven insights**.  
 
@@ -117,4 +117,4 @@ The **AI-powered Disease Prediction System** represents a **major step forward i
 Let’s build a **smarter, healthier world with AI!** 🌍🚀  
 
 --- 
-Would you like any further enhancements? 😊
+</div>
